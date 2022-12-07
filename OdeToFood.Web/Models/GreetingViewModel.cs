@@ -8,5 +8,6 @@ namespace OdeToFood.Web.Models
     public class GreetingViewModel
     {
         public String Message { get; set; }
+        public String Name { get; set; }
     }
 }
