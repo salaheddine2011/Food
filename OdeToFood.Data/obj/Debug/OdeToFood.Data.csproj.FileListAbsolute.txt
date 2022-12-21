@@ -3,3 +3,4 @@ C:\Users\acer swift 3\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.
 C:\Users\acer swift 3\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Users\acer swift 3\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
 C:\Users\acer swift 3\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\acer swift 3\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.AssemblyReference.cache
