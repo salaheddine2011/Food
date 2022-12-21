@@ -18,6 +18,12 @@ namespace OdeToFood.Data.Services
                 new Restaurant { Id = 3, Cuisine = CuisineType.Indian, Name = "Mongo Grove" },
             };
         }
+
+        public Restaurant Get(int id)
+        {
+            return restaurants.FirstOrDefault(r => r.Id == id);//or null reference
+        }
+
         public IEnumerable<Restaurant> GetAll()
         {
             return restaurants.OrderBy(r=> r.Name);
